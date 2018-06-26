@@ -1,0 +1,28 @@
+{
+  "name": "uuidhook",
+  "version": "1.0.0",
+  "description": "This Node App will provide the UUID webservice through hook.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravivamsi/UUIDGenerator.git"
+  },
+  "keywords": [
+    "uuid",
+    "generator",
+    "nodejs",
+    "npm"
+  ],
+  "author": "Vamsi Ravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravivamsi/UUIDGenerator/issues"
+  },
+  "homepage": "https://github.com/ravivamsi/UUIDGenerator#readme",
+  "dependencies": {
+    "uuid": "^3.3.0"
+  }
+}
